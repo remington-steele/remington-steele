@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Remington</h1>
-<h3 align="center">A passionate student and developerr</h3>
+<h3 align="center">A passionate student and developer</h3>
 
 - 📫 How to reach me **rsteele2215@gmail.com**
 
